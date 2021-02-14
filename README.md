@@ -5,4 +5,4 @@
 
 ### Languages: 
 
-![JavaScript](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![JavaScript](https://img.shields.io/badge/-<JavaScript>-<#191919>)
