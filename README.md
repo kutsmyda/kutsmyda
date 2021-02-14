@@ -6,6 +6,7 @@
 ### Languages: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-191919?style=for-the-badge&logo=JavaScript&logoColor=191919)
+![TypeScript](https://img.shields.io/badge/-TypeScript-191919?style=for-the-badge&logo=TypeScript&logoColor=191919)
 
 ### Tools : 
 
