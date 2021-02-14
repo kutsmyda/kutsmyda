@@ -12,7 +12,7 @@
 
 ![REACT](https://img.shields.io/badge/-REACT-191919?style=for-the-badge&logo=REACT&logoColor=191919)
 ![REDUX](https://img.shields.io/badge/-REDUX-c2741e?style=for-the-badge&logo=REDUX&logoColor=c2741e)
-![Angular](https://img.shields.io/badge/-Angular-191919?style=for-the-badge&logo=Angular&logoColor=191919)
-![NodeJs](https://img.shields.io/badge/-NodeJs-191919?style=for-the-badge&logo=NodeJs&logoColor=191919)
+![Angular](https://img.shields.io/badge/-Angular-c2741e?style=for-the-badge&logo=Angular&logoColor=c2741e)
+![NodeJs](https://img.shields.io/badge/-NodeJs-c2741e?style=for-the-badge&logo=NodeJs&logoColor=c2741e)
 
 
