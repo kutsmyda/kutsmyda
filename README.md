@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-191919?style=for-the-badge&logo=TypeScript&logoColor=191919)
 
 ### Tools : 
-![SCSS, SASS](https://img.shields.io/badge/-SCSS, SASS-c2741e?style=for-the-badge&logo=SCSS, SASS&logoColor=c2741e)
+![SASS,SCSS](https://img.shields.io/badge/-SASS,SCSS-191919?style=for-the-badge&logo=SASS,SCSS&logoColor=191919)
 ![REACT](https://img.shields.io/badge/-REACT-191919?style=for-the-badge&logo=REACT&logoColor=191919)
 ![REDUX](https://img.shields.io/badge/-REDUX-c2741e?style=for-the-badge&logo=REDUX&logoColor=c2741e)
 ![MobX](https://img.shields.io/badge/-MobX-191919?style=for-the-badge&logo=[MobX&logoColor=191919)
