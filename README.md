@@ -11,7 +11,7 @@
 
 ### Tools : 
 ![SASS,SCSS](https://img.shields.io/badge/-SASS,SCSS-c2741e?style=for-the-badge&logo=SASS,SCSS&logoColor=191919)
-![REACT](https://img.shields.io/badge/-REACT-191919?style=for-the-badge&logo=REACT&logoColor=c2741e)
+![REACT](https://img.shields.io/badge/-REACT-191919?style=for-the-badge&logo=REACT&logoColor=5CCCCC)
 ![REDUX](https://img.shields.io/badge/-REDUX-c2741e?style=for-the-badge&logo=REDUX&logoColor=191919)
 ![MobX](https://img.shields.io/badge/-MobX-191919?style=for-the-badge&logo=[MobX&logoColor=c2741e)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-c2741e?style=for-the-badge&logo=AXIOS&logoColor=191919)
