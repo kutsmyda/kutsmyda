@@ -5,9 +5,9 @@
 
 ### Languages: 
 ![HTML5](https://img.shields.io/badge/-HTML5-191919?style=for-the-badge&logo=HTML5&logoColor=191919)
-![CSS](https://img.shields.io/badge/-CSS-191919?style=for-the-badge&logo=CSS&logoColor=c2741e)
+![CSS](https://img.shields.io/badge/-CSS-c2741e?style=for-the-badge&logo=CSS&logoColor=c2741e)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-191919?style=for-the-badge&logo=JavaScript&logoColor=191919)
-![TypeScript](https://img.shields.io/badge/-TypeScript-191919?style=for-the-badge&logo=TypeScript&logoColor=c2741e)
+![TypeScript](https://img.shields.io/badge/-TypeScript-c2741e?style=for-the-badge&logo=TypeScript&logoColor=c2741e)
 
 ### Tools : 
 ![SASS,SCSS](https://img.shields.io/badge/-SASS,SCSS-191919?style=for-the-badge&logo=SASS,SCSS&logoColor=c2741e)
